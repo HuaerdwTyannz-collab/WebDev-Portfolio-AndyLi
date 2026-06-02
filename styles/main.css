@@ -330,3 +330,38 @@ h3 {
         height: 220px;
     }
 }
+.icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background-color: #e9ddff;
+    margin-right: 8px;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.small-icon {
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.icon-list {
+    list-style: none;
+    margin-top: 16px;
+}
+
+.icon-list li {
+    margin-bottom: 12px;
+    padding: 10px 14px;
+    border-radius: 12px;
+    background-color: #f7f3ff;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.icon-list li:hover {
+    transform: translateX(6px);
+    background-color: #eee7ff;
+}
