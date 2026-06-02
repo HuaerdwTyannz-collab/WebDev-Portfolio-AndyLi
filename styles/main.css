@@ -365,3 +365,20 @@ h3 {
     transform: translateX(6px);
     background-color: #eee7ff;
 }
+.code-screenshot-box {
+    margin: 24px 0;
+}
+
+.code-screenshot-box img {
+    width: 100%;
+    max-width: 900px;
+    border-radius: 14px;
+    border: 1px solid #dddddd;
+    display: block;
+}
+
+.code-screenshot-box figcaption {
+    margin-top: 10px;
+    color: #666666;
+    font-size: 15px;
+}
