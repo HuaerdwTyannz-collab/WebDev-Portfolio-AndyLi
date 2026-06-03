@@ -1,12 +1,29 @@
-In this project, I created a personal portfolio website to show my 
-learning in web development.
-I used HTML to build the structure of different pages, including the 
-homepage, portfolio, design thinking, UN Global Goal, and accessibility pages. 
-I used CSS to make the website cleaner with colors, spacing, borders, rounded corners, 
-hover effects, and responsive design. I also used JavaScript to add simple interaction, 
-such as the dark mode button and click buttons. One challenge was connecting all 
-the files correctly, including HTML, CSS, JavaScript, images, and background music. 
-Sometimes one wrong file name or folder path made something not work. 
-I solved this by testing the website many times in the browser and checking my code 
-step by step. Overall, this project helped me understand how HTML, CSS, and JavaScript
- work together, and it made me more confident as a beginner web developer.
+
+In this project, I created a personal portfolio website to show my learning in web 
+development. My website includes a homepage, portfolio page, design thinking page,
+ UN Global Goal page, accessibility page, and a Behind the Curtain section. I used 
+ HTML to build the structure of the website. For example, I used headings, paragraphs, 
+ links, images, navigation, sections, and the audio tag. I also used different HTML 
+ pages so users can click the navigation bar and move to a new page.
+
+I used CSS to make the website look cleaner and easier to read. I added colors,
+spacing, borders, rounded corners, hover effects, and simple card layouts. 
+I also used responsive design, so the website can still work on different screen 
+sizes. I tried to keep the design simple because I wanted the website to look 
+organized and not too crowded. The portfolio page is connected to my real interests,
+ such as bands, drumming, and metal music, so the website feels more personal.
+
+I used JavaScript to add simple interactive features. For example, I made a button 
+that shows text when the user clicks it. I also made a dark mode button. The dark 
+mode uses JavaScript to add or remove a class, and CSS changes the background and 
+text colors. This helped me understand how JavaScript and CSS can work together.
+
+One challenge was connecting all the files correctly. Sometimes an image, CSS file, 
+JavaScript file, or background music did not work because the file name or folder
+ path was wrong. I fixed this by checking my folders carefully and testing the 
+ website many times in the browser. I also used VSCode and browser preview to find 
+ mistakes.
+
+Overall, this project helped me understand how HTML, CSS, and JavaScript work 
+together to build a complete website. I feel more confident than before, but I 
+still want to improve my JavaScript and responsive design skills in the future.
