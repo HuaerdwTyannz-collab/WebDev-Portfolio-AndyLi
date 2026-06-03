@@ -1,0 +1,12 @@
+In this project, I created a personal portfolio website to show my 
+learning in web development.
+I used HTML to build the structure of different pages, including the 
+homepage, portfolio, design thinking, UN Global Goal, and accessibility pages. 
+I used CSS to make the website cleaner with colors, spacing, borders, rounded corners, 
+hover effects, and responsive design. I also used JavaScript to add simple interaction, 
+such as the dark mode button and click buttons. One challenge was connecting all 
+the files correctly, including HTML, CSS, JavaScript, images, and background music. 
+Sometimes one wrong file name or folder path made something not work. 
+I solved this by testing the website many times in the browser and checking my code 
+step by step. Overall, this project helped me understand how HTML, CSS, and JavaScript
+ work together, and it made me more confident as a beginner web developer.
